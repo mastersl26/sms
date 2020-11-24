@@ -23,7 +23,7 @@ pkg install toilet
 
 git clone https://github.com/mastersl26/sms
 
-cd SMS
+cd sms
 
 pip install -r requirements.txt
 
