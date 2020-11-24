@@ -1,8 +1,6 @@
-# sms
 Join us Youtube - MASTER SL👇👇
 https://www.youtube.com/channel/UCcSeR_WKYKcHtRlfzpLCnGA
 
-# SMS
 💥Spam Sms Sender💥
 
 Special👇
@@ -15,9 +13,9 @@ Create by MASTER SL
 
 🤔Termux codes👇
 
-pkg update
+pkg update && pkg upgrade
 
-pkg upgrade
+pkg install git
 
 pkg install toilet
 
